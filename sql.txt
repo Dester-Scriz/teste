@@ -1,0 +1,6 @@
+create table usuario{
+   nome nvarchar(100)
+}
+create table cuzinho{
+   nome nvarchar(100)
+}
